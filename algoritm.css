@@ -41,3 +41,7 @@ li{
 #elsosor{
     margin-top: 15px;
 }
+
+mark{
+    font-family:'Courier New', Courier, monospace
+}
